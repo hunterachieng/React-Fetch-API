@@ -1,3 +1,13 @@
+# React Fetch API
+This project showcases how one can fetch data from the server using the Fetch API. 
+React has inbuild fetch library eliminating the need to install another one.
+The data was placed in the public folder;
+/public/GreensKiosk.js 
+The API urls were placed in server.js
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
